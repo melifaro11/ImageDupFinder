@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images/toolbar">
+        <file>Search-Images-icon.png</file>
+        <file>Log-Out-icon.png</file>
+    </qresource>
+</RCC>
