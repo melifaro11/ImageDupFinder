@@ -1,2 +1,9 @@
 # ImageDupFinder
-Simple application for search duplicates of images, based on image hashes
+
+ImageDupFinder is a simple C++ Qt application, which demonstrates the usage of image hashes to find duplicate images in directories.
+
+## aHash
+
+## dHash
+
+## pHash
